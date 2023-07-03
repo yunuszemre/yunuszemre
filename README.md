@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ENOCA Yazılım ve Danışmanlık
+- 🔭 I’m currently working on ENOCA Software and Consultancy
 - 🌱 I’m currently learning Flutter & .Net & Cloud Solutions
 - 👯 I’m looking to collaborate on .Net & Flutter
 - 🤔 I’m looking for help with .Net & Flutter
